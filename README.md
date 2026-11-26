@@ -76,6 +76,7 @@ for char, code in huffman_codes.items():
 
 ### Print the characters and its huffmancode
 
+<img width="582" height="576" alt="image" src="https://github.com/user-attachments/assets/bd79052c-a522-4292-aec8-46f7944d4075" />
 
 
 ## Result
